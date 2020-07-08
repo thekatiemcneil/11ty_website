@@ -1,20 +1,11 @@
-# About Me
+# Hi there!
 
-Lorem ipsum dolor sit amet, ***consectetur adipiscing elit***, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## I'm Katie McNeil, a software engineer & product manager based in Austin, Texas.  
 
-## Header 2
 
-*Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.*
 
-Ut enim ad minim veniam:
+I've been at [Senseye](www.senseye.co) for the last few years, moving from intern to software engineer to my current position as technical product manager.  
 
-### Header 3
+I grew up on an island in the Pacific Northwest, have spent time in over thirty countries, and am an avid follower of women's soccer.
 
-**Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur?**
-
-#### Header 4
-
-Quis nostrud exercitation:
-
-* Ullamco laboris nisi ut [aliquip](https://example.com)
-* Ex ea commodo [consequat](https://example.com).
+You can learn more about me by checking out my [LinkedIn](www.linkedin.com/in/thekatiemcneil), [Github](www.github.com/thekatiemcneil), or by [emailing me](mailto:thekatiemcneil@gmail.com).
