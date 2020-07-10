@@ -7,7 +7,7 @@
   <title>{{ title or metadata.title }}</title>
   <meta property="og:title" content="{{ title or renderData.title or metadata.title }}">
   <meta name="apple-mobile-web-app-title" content="{{ title or renderData.title or metadata.title }}">
-  <meta name="twitter:title" content="{{ title or renderData.title  or metadata.title }}"> 
+  <meta name="twitter:title" content="{{ title or renderData.title  or metadata.title }}">
   <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -40,5 +40,5 @@
     </div>
   </div>
   {% include "components/footer.njk" %}
-</body>	
+</body>
 </html>
