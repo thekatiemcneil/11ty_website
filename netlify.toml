@@ -1,0 +1,4 @@
+# A basic redirect rule
+[[redirects]]
+  from = "/d8me"
+  to = "https://docs.google.com/forms/d/e/1FAIpQLSdmaFZrSn16ny2PZzx_AsG0k9X4PgLum0K6jVkfoV4EDkS8sA/viewform?usp=sf_link"
