@@ -4,7 +4,7 @@
 
 
 
-I currently work at [Cofactr](https://www.cofactr.com) as a frontend engineer. My previous experience includes [Homeward](https://www.homeward.com) (frontend engineer) and [Senseye](https://www.senseye.co) (software engineer, technical product manager).
+I'm currently on a sabbatical until mid-2026. My previous experience includes [Cofactr](https://www.cofactr.com) (director of frontend engineering), [Homeward](https://www.homeward.com) (frontend engineer), and [Senseye](https://www.senseye.co) (software engineer, technical product manager).
 
 I grew up on an island in the Pacific Northwest, have spent time in over thirty countries, and am an avid follower of women's soccer.
 
