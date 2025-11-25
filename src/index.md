@@ -1,7 +1,6 @@
 # Hi there!
 
-## I'm Katie McNeil, a software engineer based in Austin, Texas.  
-
+## I'm Katie McNeil, a software engineer.  
 
 
 I'm currently on a sabbatical until mid-2026. My previous experience includes [Cofactr](https://www.cofactr.com) (director of frontend engineering), [Homeward](https://www.homeward.com) (frontend engineer), and [Senseye](https://www.senseye.co) (software engineer, technical product manager).
