@@ -1,9 +1,9 @@
 # Hi there!
 
-## I'm Katie McNeil, a software engineer.  
+## I'm Katie McNeil, a software engineer based in Leeds, UK.  
 
 
-I'm currently on a sabbatical until mid-2026. My previous experience includes [Cofactr](https://www.cofactr.com) (director of frontend engineering), [Homeward](https://www.homeward.com) (frontend engineer), and [Senseye](https://www.senseye.co) (software engineer, technical product manager).
+I'm currently wrapping up a sabbatical and searching for my next role. My previous experience includes [Cofactr](https://www.cofactr.com) (director of frontend engineering), [Homeward](https://www.homeward.com) (frontend engineer), and [Senseye](https://www.senseye.co) (software engineer, technical product manager).
 
 I grew up on an island in the Pacific Northwest, have spent time in over thirty countries, and am an avid follower of women's soccer.
 
